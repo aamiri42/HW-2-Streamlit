@@ -2,3 +2,6 @@ streamlit
 pandas
 google-cloud-storage
 google-auth
+fastapi
+requests
+uvicorn
